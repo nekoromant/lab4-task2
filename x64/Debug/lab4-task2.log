@@ -1,0 +1,4 @@
+﻿  lab4-task2.cpp
+D:\hacker\L_4\lab4-task2\lab4-task2.cpp(25,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\hacker\L_4\lab4-task2\lab4-task2.cpp(25,38): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  lab4-task2.vcxproj -> D:\hacker\L_4\lab4-task2\x64\Debug\lab4-task2.exe
